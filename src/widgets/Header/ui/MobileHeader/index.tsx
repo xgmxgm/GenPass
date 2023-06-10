@@ -2,8 +2,8 @@ import { FC, useState } from 'react'
 import { useTranslation } from "react-i18next"
 
 import "./MobileHeader.scss"
-import { Modal } from '@/shared/ui/modal/Modal'
-import { Button } from '@/shared/ui/Button/Button'
+import { Modal } from '@/shared/ui/Modal'
+import { Button } from '@/shared/ui/Button'
 
 export const MobileHeader: FC = () => {
     const [modalActive, setModalActive] = useState<boolean>(false);

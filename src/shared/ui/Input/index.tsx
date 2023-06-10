@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 
-import { Button } from "../Button/Button";
+import { Button } from "../Button";
 import "./Input.scss"
 
 interface IProps {
