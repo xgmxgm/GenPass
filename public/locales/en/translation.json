@@ -1,0 +1,14 @@
+{
+    "Header" : {
+        "language" : "language"
+    },
+    "main" : {
+        "length" : "Length",
+        "button" : "Generate",
+        "upper" : "Use upper case",
+        "lower" : "Use lower case",
+        "number" : "Use number case",
+        "symbol" : "Use symbol case",
+        "copy" : "copy"
+    }
+}
